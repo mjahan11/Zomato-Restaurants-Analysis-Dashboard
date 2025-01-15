@@ -10,3 +10,12 @@ This repository features a Power BI dashboard that analyzes Zomato restaurant da
 •	Top 10 restaurants by rating (out of 5).
 •	Top 10 restaurants by the number of customer ratings.
 •	Interactive slicers for filtering data by rating count, rating out of 5, area, and restaurant type, offering data-driven insights.
+
+
+
+# Dataset
+- <a href="https://github.com/mjahan11/Airbnb-Dataset-Analysis-Dashboard/blob/main/AirBnb_Newyork.xlsx">Dataset</a>
+# Dashboard View
+
+![image](https://github.com/user-attachments/assets/5c4acbd4-e1e1-4440-a5dd-5371f987154d)
+
