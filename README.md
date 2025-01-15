@@ -26,4 +26,4 @@ This repository features a Power BI dashboard that analyzes Zomato restaurant da
 ![image](https://github.com/user-attachments/assets/5c4acbd4-e1e1-4440-a5dd-5371f987154d)
 
 <a href="https://github.com/mjahan11/Airbnb-Dataset-Analysis-Dashboard/blob/main/AirBnB_NYC_Report.pbix">Click to Download pbix file </a>
-<a href=https://github.com/mjahan11/Zomato-Restaurants-Analysis-Dashboard/blob/main/zomato%20Restaurant%20Dashboard_.pbix">Click to Download pbix file </a>
+<a href="https://github.com/mjahan11/Zomato-Restaurants-Analysis-Dashboard/blob/main/zomato%20Restaurant%20Dashboard_.pbix">Click to Download pbix file </a>
